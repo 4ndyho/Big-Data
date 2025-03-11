@@ -8,3 +8,5 @@ understand the challenges and complexity of data analysis.
 
 This project covers Statistical analysis, unsupervised learning (K-Means & Hierarchal Agglomerative Clustering)
 & supervised learning (Linear Regression)
+
+Thank you for Laksika Tharmalingam for providing the [Dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
