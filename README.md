@@ -1,10 +1,10 @@
 # Big-Data
 
 Task:
-To understand the fundamentals of Python to enable the use of various big data technologies; to
-understand how classical statistical techniques are applied in modern data analysis; to understand the
-potential application of data analysis tools for various problems and appreciate their limitations; To
-understand the challenges and complexity of data analysis.
+To gain fundamental Python skills required for utilising big data technologies; 
+to understand how classical statistical methods are applied in contemporary data analysis; to explore the practical applications 
+and recognize the limitations of data analysis tools across various problem domains; 
+and to appreciate the complexities and challenges inherent in data analysis.
 
 This project covers Statistical analysis, unsupervised learning (K-Means & Hierarchal Agglomerative Clustering)
 & supervised learning (Linear Regression)
