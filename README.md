@@ -3,7 +3,7 @@
 Task:
 To gain fundamental Python skills required for utilising big data technologies; 
 to understand how classical statistical methods are applied in contemporary data analysis; 
-to explore the practical applications and recognize the limitations of data analysis tools across various problem domains; 
+to explore the practical applications and recognise the limitations of data analysis tools across various problem domains; 
 and to appreciate the complexities and challenges inherent in data analysis.
 
 This project covers Statistical analysis, unsupervised learning (K-Means & Hierarchal Agglomerative Clustering)
